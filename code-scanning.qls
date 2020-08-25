@@ -1,0 +1,5 @@
+- import: codeql-suites/javascript-code-scanning.qls
+  from: codeql-javascript
+- exclude:
+    id:
+    - js/missing-rate-limiting
