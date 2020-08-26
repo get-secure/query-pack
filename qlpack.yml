@@ -1,3 +1,6 @@
+# Name of query pack
 name: radar-custom-queries
+# Version - not currently used, but may be required in the future
 version: 0.0.0
+# The names of any QL packs that this QL pack depends on, as a sequence.
 libraryPathDependencies: codeql-javascript
