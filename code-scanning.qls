@@ -1,6 +1,8 @@
 # Reusing existing QL Pack
 - import: codeql-suites/javascript-code-scanning.qls
   from: codeql-javascript
+- import: codeql-suites/javascript-security-and-quality.qls
+  from: codeql-javascript
 - exclude:
     id:
     - js/missing-rate-limiting
