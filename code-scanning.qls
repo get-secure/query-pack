@@ -3,3 +3,4 @@
 - exclude:
     id:
     - js/missing-rate-limiting
+    - js/zipslip
