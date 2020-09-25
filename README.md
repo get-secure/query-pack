@@ -1,9 +1,9 @@
-# javascript-query-pack
-JavaScript Query Pack for GitHub Advanced Security Code Scanning
+# query-pack
+Query Pack for GitHub Advanced Security Code Scanning
 
 ### [More on QL Packs](https://help.semmle.com/codeql/codeql-cli/reference/qlpack-overview.html)
 
-QL packs are used to organize the fioles used in the CodeQL analysis.
+QL packs are used to organize the files used in the CodeQL analysis.
 
 The [CodeQL repository](https://github.com/github/codeql) contains QL packs for C/C++, C#, Java, JavaScript, and Python. The CodeQL for Go repository contains a QL pack for Go analysis. You can also make custom QL packs to contain your own queries and libraries.
 
