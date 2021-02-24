@@ -10,4 +10,3 @@
     - js/missing-rate-limiting
     - js/zipslip
     - js/double-escaping
-    - js/insecure-randomness
